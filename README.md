@@ -22,11 +22,11 @@ For questions/communication, use the [slack workspace](https://ethEpigen2026.sla
 | 8  | 04.24 | DNA methylation and CpG islands                                          | DNAme analysis and visualization                                    |
 | *  | 05.01 | ###### Labour day - No Course                                            ||
 | 9  | 05.08 | From repression to expression and back                                   | Clustering genomic signals and characterizing the clusters          |
-| 11 | 05.15# | Chromatin conformation, domains and looping                             | Working with distal regulatory elements                             |
-| 12 | 05.22 | Multi-modal integration                                                  | Multi-modal integration                                             |
-| 13 | 05.29 | Single-cell chromatin assays;<br/>chromatin and disease; open questions  | Projects |
+| 10 | 05.15&#35; | Chromatin conformation, domains and looping                             | Working with distal regulatory elements                             |
+| 11 | 05.22 | Multi-modal integration                                                  | Multi-modal integration                                             |
+| 12 | 05.29 | Single-cell chromatin assays;<br/>chromatin and disease; open questions  | Projects |
 
 * I'm away on the 6th of March, and the course will be held online.
-# On the 15th of may there is teaching, but since the 14th is a holiday and many people are away, there will be the option to join online and the class will be recorded.
+&#35; On the 15th of may there is teaching, but since the 14th is a holiday and many people are away, there will be the option to join online and the class will be recorded.
 
 As I am making adjustments to the course this year, the course plan is subject to change.
